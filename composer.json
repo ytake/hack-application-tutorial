@@ -7,10 +7,12 @@
   "minimum-stability": "stable",
   "require": {
     "hhvm": "^3.30.0",
+    "hhvm/hhvm-autoload": "^1.7",
     "hhvm/hsl": "^3.30.0",
     "hhvm/hsl-experimental": "^3.30.0",
     "ytake/hungrr": "^0.2.0",
-    "nazg/heredity": "^1.1.0"
+    "nazg/heredity": "^1.1.0",
+    "facebook/hack-router": "^0.17"
   },
   "require-dev": {
     "hhvm/hacktest": "^1.3",
